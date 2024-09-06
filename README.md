@@ -1,4 +1,5 @@
 # ardunio-ile-trafik-lambas-
+Daha fazlası için:https://www.linkedin.com/in/irem-t%C3%BCfek%C3%A7i-239320327/
 void setup() {
  pinMode(2,OUTPUT);
  pinMode(3,OUTPUT);
